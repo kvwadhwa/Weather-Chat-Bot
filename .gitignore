@@ -7,8 +7,8 @@ website/dist/
 website/node_modules/
 website/package-lock.json
 my-bot/package-lock.json
-website\src\aws-exports.js
-website\src\aws-exports.ts
+website/src/aws-exports.js
+website/src/aws-exports.ts
 awsconfiguration.json
 amplifyconfiguration.json
 amplifyconfiguration.dart
